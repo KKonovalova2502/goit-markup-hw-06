@@ -138,6 +138,7 @@ a {
 
 .nav-link.current {
   position: relative;
+  color: #404bbf;
 }
 
 .nav-link.current::after {
@@ -527,7 +528,7 @@ a {
   .advantage-list {
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 72px 24px;
   }
 }
 
